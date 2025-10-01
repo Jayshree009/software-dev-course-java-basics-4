@@ -56,9 +56,9 @@ public class CollectionExercises {
         // Create and return an ArrayList of strings with the given values
         // Replace the line below with your implementation
         ArrayList<String> fruitList = new ArrayList<>();
-        fruitList.add("fruit1");
-        fruitList.add("fruit2");
-        fruitList.add("fruit3");
+        fruitList.add(fruit1);
+        fruitList.add(fruit2);
+        fruitList.add(fruit3);
 
         return fruitList;
     }
